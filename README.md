@@ -30,7 +30,7 @@ Weighted average ensemble
 
 ## Conclusion
 
-Stacking ensemble : AUC score 0.975
-Model Averaging ensemble : AUC score 0.960
-Weighted Average ensemble : AUC score 0.960
-Model weight Averaging ensemble : AUC score 0.974
+- Stacking ensemble : AUC score 0.975
+- Model Averaging ensemble : AUC score 0.960
+- Weighted Average ensemble : AUC score 0.960
+- Model weight Averaging ensemble : AUC score 0.974
